@@ -1,6 +1,6 @@
 #About
 
-This documentation refers to the project [Sequencer](https://github.com/Micka33/sequencer) published under the licence[BSD 3-Clause](https://github.com/Micka33/sequencer/blob/master/LICENSE).
+This documentation refers to the project [Sequencer](https://github.com/Micka33/sequencer) published under the licence [BSD 3-Clause](https://github.com/Micka33/sequencer/blob/master/LICENSE).
 More explanations available [here](http://choosealicense.com/licenses/) about the [BSD 3-Clause](https://github.com/Micka33/sequencer/blob/master/LICENSE)
 
 #Technologies
