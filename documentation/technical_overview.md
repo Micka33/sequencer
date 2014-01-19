@@ -1,7 +1,7 @@
 #About
 
-This documentation refers to the project [Sequencer][sequencer] published under the licence [BSD 3-Clause][BSD3].
-More explanations available [here][licences] about the [BSD 3-Clause][BSD3]
+This documentation refers to the project [Sequencer](sequencer) published under the licence (BSD 3-Clause)[BSD3].
+More explanations available (here)[licences] about the (BSD 3-Clause)[BSD3]
 
 #Technologies
 ##Back-End
@@ -12,7 +12,6 @@ Using
 ###Rails
 ###NodeJs
 ###Python
-
 
 
 
