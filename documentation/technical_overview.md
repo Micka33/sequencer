@@ -20,7 +20,7 @@ Each png convertion request passes through rails, to then be saved into Redis wa
 Sidekiq is used to launch the convertion jobs saved into Redis.
 
 ###NodeJs
-NodeJs is used to implement a real-time conversion state of the png.
+NodeJs is used to provide to the user a real-time conversion state of the png.
 
 ###Python
 Python is used to convert the pngs into one using [anim_encoder](https://github.com/sublimehq/anim_encoder)
