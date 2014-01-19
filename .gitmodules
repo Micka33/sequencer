@@ -1,0 +1,3 @@
+[submodule "vendor/anim_encoder"]
+	path = vendor/anim_encoder
+	url = https://Micka33@github.com/sublimehq/anim_encoder
